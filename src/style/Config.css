@@ -1,0 +1,65 @@
+.containerConfig {
+  align-items: center;
+  background-image: url('./img/background.png');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
+
+.sectionConfig {
+  align-items: center;
+  background: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  height: 488px;
+  justify-content: center;
+  margin: 20px;
+  text-align: center;
+  width: 489px;
+}
+
+.nameConfig {
+  color: #3c1b7a;
+  font-size: 30px;
+  font-weight: 700;
+  height: 45px;
+  letter-spacing: 0.12em;
+  line-height: 150%;
+  text-transform: uppercase;
+  width: 352px;
+}
+
+.options {
+  align-items: flex-start;
+  background: white;
+  border: 2px solid #e1e5eb;
+  border-radius: 4px;
+  color: gray;
+  display: flex;
+  flex-direction: column;
+  height: 45px;
+  padding: 10px;
+  width: 387px;
+}
+
+.buttonConfig {
+  background: rgb(97, 19, 165);
+  border-radius: 5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  color: white;
+  height: 45px;
+  text-transform: uppercase;
+  width: 386px;
+}
+
+p {
+  align-items: center;
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+}

@@ -1,0 +1,33 @@
+.red-border {
+  align-items: center;
+  background: white;
+  border: 3px solid red;
+  border-radius: 100px;
+  box-sizing: border-box;
+  display: flex;
+  filter: drop-shadow(0 0 9px red);
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 600;
+  height: 64px;
+  justify-content: center;
+  margin: 20px;
+  width: 619px;
+}
+
+.green-border {
+  align-items: center;
+  background: white;
+  border: 3px solid rgb(6, 240, 15);
+  border-radius: 100px;
+  box-sizing: border-box;
+  display: flex;
+  filter: drop-shadow(0 0 9px rgb(6, 240, 15));
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 600;
+  height: 64px;
+  justify-content: center;
+  margin: 20px;
+  width: 619px;
+}

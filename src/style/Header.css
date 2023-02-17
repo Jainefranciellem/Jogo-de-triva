@@ -1,0 +1,45 @@
+.containerHeader {
+  background: #fff8f8;
+  display: flex;
+  height: 50px;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.header {
+  align-items: center;
+  display: flex;
+  height: 90px;
+  justify-content: space-around;
+  text-align: center;
+  width: 500px;
+}
+
+.Img {
+  border-radius: 18.137px;
+  height: 37px;
+  margin: 10px;
+  width: 37px;
+}
+
+.nameProfile {
+  align-items: center;
+  color: #110f0f;
+  display: flex;
+  font-size: 20px;
+  font-weight: 400;
+  height: 24px;
+  justify-content: space-around;
+  width: 120px;
+}
+
+.score {
+  align-items: center;
+  color: #110f0f;
+  display: flex;
+  font-size: 20px;
+  font-weight: 400;
+  justify-content: space-around;
+  text-align: center;
+  width: 130px;
+}

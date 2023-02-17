@@ -1,0 +1,87 @@
+.containerFeedback {
+  align-items: center;
+  background-image: url('./img/background.png');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  height: 90.8vh;
+  width: 100vw;
+}
+
+.feedbackHeader {
+  background: #fff8f8;
+  display: flex;
+  height: 90px;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.feedbackSection {
+  align-items: center;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 1px 4px 13px 2px rgba(0, 0, 0, 0.2);
+  display: flex;
+  flex-direction: column;
+  height: 320px;
+  justify-content: end;
+  margin-top: 160px;
+  text-align: center;
+  width: 479px;
+}
+
+.imgFeedback {
+  border: 4px solid #b853f2;
+  border-radius: 120px;
+  box-sizing: border-box;
+  filter: drop-shadow(0 0 9px #b853f2);
+  height: 250px;
+  width: 250px;
+}
+
+.feedbacks {
+  color: #b853f2;
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 70px;
+  text-transform: uppercase;
+  width: 439px;
+}
+
+.hits {
+  color: #b5b5b5;
+  font-size: 20px;
+  font-weight: 700;
+  height: 48px;
+  line-height: 150%;
+  width: 253px;
+  margin-bottom: 30px;
+}
+
+.points {
+  color: #b5b5b5;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+  height: 48px;
+  line-height: 150%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 353px;
+}
+
+.buttonsFeedback {
+  background: #b853f2;
+  border-radius: 5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  color: white;
+  height: 45px;
+  margin: 10px;
+  text-transform: uppercase;
+  width: 230px;
+}
+
+.imageLogo {
+  margin-top: 20px;
+  width: 150px;
+}
