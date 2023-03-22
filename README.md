@@ -1,9 +1,6 @@
 <h1>Olá, <br/>
 Bem-vindo ao meu repositório de projetos desenvolvidos no curso de formação Trybe!</h1>
 
-<p>Esse projeto foi desenvolvido durante minha formação no curso de desenvolvimento web pela Trybe.</p>
-
-
 <h1>O que a aplicação propõe?</h1>
 
 <p>Uma aplicação desenvolvida em conjunto, é possível fazer login na aplicação, caso utilize um e-mail cadastrado no Gravatar, você vera sua imagem no Avatar de usuário! Assim como é possível jogar cinco rodadas de trívia, com perguntas aleatórias, ao final de cada rodada você vera seu score e perguntas acertadas, assim como um feedback!</p>
