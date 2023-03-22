@@ -7,9 +7,9 @@ Bem-vindo ao meu repositório de projetos desenvolvidos no curso de formação T
 
 <h1>Arquivos desenvolvidos.</h1>
 
-<p>Para este projeto fora desenvolvido tanto o React, Redux, CSS, regras de negócio, divididas entre os companheiros do meu grupo, sendo eles: <br/>
-  <a href="https://www.linkedin.com/in/allanminatodev/" target="_blanck">Allan minato</a>
-  <a href="https://www.linkedin.com/in/amandazanata/" target="_blanck">Amanda Zanata</a>
+<p>Para este projeto fora desenvolvido tanto o React, Redux, CSS, regras de negócio, divididas entre minha equipe, sendo eles: <br/>
+  <a href="https://www.linkedin.com/in/allanminatodev/" target="_blanck">Allan minato,</a>
+  <a href="https://www.linkedin.com/in/amandazanata/" target="_blanck">Amanda Zanata e</a>
   <a href="https://www.linkedin.com/in/rogerio-camarano-dev/" target="_blanck">Rogerio Camarano</a>
 </p>
 
